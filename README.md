@@ -12,6 +12,7 @@ This project includes both a command-line and a graphical user interface (GUI) v
 - Run the script: `python tic-tac-toe-UI.py`
 - Click on a tile to place your move.
 - The game highlights winning moves and provides a reset button.
+
   <img width="257" alt="Image" src="https://github.com/user-attachments/assets/f45183ac-b6a9-47ad-9d4a-d14e0391578a" />
 
 ## Features
